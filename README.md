@@ -1,10 +1,7 @@
-In this project, let's build a **Password Validator** by applying the concepts we have learned till now.
-
-### Refer to the image below:
-
+A **Password Validator** :
 <br/>
 <div style="text-align: center;">
-    <img src="https://assets.ccbp.in/frontend/content/react-js-hooks/password-validator-output-v0.gif" alt="password validator output" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
+    Open https://pwdvalidator.ccbp.tech to view it in the browser.
 </div>
 <br/>
 
