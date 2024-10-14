@@ -1,10 +1,3 @@
-A **Password Validator** :
-<br/>
-<div style="text-align: center;">
-    Open https://pwdvalidator.ccbp.tech to view it in the browser.
-</div>
-<br/>
-
 # Password Validator
 
 A simple **Password Validator** that checks the strength and validity of a password based on its length. You can explore the live demo by clicking [here](https://pwdvalidator.ccbp.tech).
